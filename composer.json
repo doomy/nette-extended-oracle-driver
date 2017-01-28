@@ -1,5 +1,5 @@
 {
-    "name": "doomy/nette/extended-oracle-driver",
+    "name": "doomy/nette-extended-oracle-driver",
     "version": "1.0.0",
     "autoload": {
         "psr-0" : {
