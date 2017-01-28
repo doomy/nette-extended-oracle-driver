@@ -4,13 +4,12 @@
         "type": "package",
         "package": {
             "name": "doomy/nette-extended-oracle-driver",
-            "version": "master",
+            "version": "1.0.0",
             "source": {
                 "url": "git://github.com/doomy/nette-extended-oracle-driver.git",
                 "type": "git",
                 "reference": "master"
             },
-            "stability": "stable",
             "autoload": {
                 "psr-0" : {
                     "Doomy\\ExtendedOracleDriver" : "src"
