@@ -10,6 +10,7 @@
                 "type": "git",
                 "reference": "master"
             },
+            "stability": "stable",
             "autoload": {
                 "psr-0" : {
                     "Doomy\\ExtendedOracleDriver" : "src"
